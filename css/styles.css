@@ -1,0 +1,41 @@
+html {
+        font-family: 'Shadows Into Light', cursive;
+        font-size: 20px;
+        border-style: solid;
+      }
+
+/* Header
+-----------------------------------------------------------------------------*/
+.header {
+	height: 150px;
+	background-image: url(../assets/img/header.png);
+
+}
+
+h1{
+ text-align: center;
+
+}
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+.middle{
+ float: right;
+ width: 75%;
+ background: #F4D372;
+ }
+
+.container {
+  background: #F4D372;
+}
+
+
+/* Left Sidebar
+-----------------------------------------------------------------------------*/
+.left-sidebar {
+	float: left;
+	width: 25%;
+	background: #E697AA;
+  border-color: red;
+}
