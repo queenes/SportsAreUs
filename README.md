@@ -12,6 +12,12 @@ On your web browser,enter the following link
 
 https://queenes.github.io/SportsAreUs/
 
+## Specifications
+It can count upto the provided number
+* Example Input - 6
+* Example output {1,2,ping,4,pong,ping}
+
+
 
 ## Built With
 
