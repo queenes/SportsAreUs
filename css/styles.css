@@ -39,3 +39,7 @@ h1{
 	background: #E697AA;
   border-color: red;
 }
+
+.result{
+display: none;
+}
